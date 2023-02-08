@@ -1,0 +1,4 @@
+Számlaszám: 3
+Cikkszam 		Termek 		Mennyiség 		Egységár 		Fizetendő
+155 		keksz 		2 		2 		4
+Összesen: 4

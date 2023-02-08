@@ -1,0 +1,4 @@
+Számlaszám: 21
+Cikkszam 		Termek 		Mennyiség 		Egységár 		Fizetendő
+1003 		Citrom 		7 		500 		3500
+Összesen: 3500

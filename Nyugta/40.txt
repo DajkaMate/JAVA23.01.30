@@ -1,0 +1,4 @@
+Számlaszám: 40
+Cikkszam 		Termek 		Mennyiség 		Egységár 		Fizetendő
+2001 		Alma 		10 		400 		4000
+Összesen: 4000

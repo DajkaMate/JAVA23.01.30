@@ -1,0 +1,6 @@
+Számlaszám: 2
+Cikkszam 		Termek 		Mennyiség 		Egységár 		Fizetendő
+1003 		Citrom 		1 		500 		500
+1001 		Jar mosogato 		2 		600 		1200
+3001 		Kocsi 		3 		300 		900
+Összesen: 2600

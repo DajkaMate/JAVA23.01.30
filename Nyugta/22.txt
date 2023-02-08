@@ -1,0 +1,4 @@
+Számlaszám: 22
+Cikkszam 		Termek 		Mennyiség 		Egységár 		Fizetendő
+3001 		Kocsi 		6 		300 		1800
+Összesen: 1800

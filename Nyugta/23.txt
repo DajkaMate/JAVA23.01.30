@@ -1,0 +1,4 @@
+Számlaszám: 23
+Cikkszam 		Termek 		Mennyiség 		Egységár 		Fizetendő
+1001 		Jar mosogato 		7 		600 		4200
+Összesen: 4200

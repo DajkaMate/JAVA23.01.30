@@ -1,0 +1,4 @@
+Számlaszám: 20
+Cikkszam 		Termek 		Mennyiség 		Egységár 		Fizetendő
+2002 		Körte 		7 		211 		1477
+Összesen: 1477

@@ -1,0 +1,6 @@
+Számlaszám: 4
+Cikkszam 		Termek 		Mennyiség 		Egységár 		Fizetendő
+1003 		Citrom 		5 		500 		2500
+3003 		asd 		1 		400 		400
+3002 		Labda 		1 		200 		200
+Összesen: 3100

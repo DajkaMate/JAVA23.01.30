@@ -1,0 +1,3 @@
+Cikkszam;Darabszam;
+3002;4
+3002;9

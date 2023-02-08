@@ -1,0 +1,6 @@
+Számlaszám: 1
+Cikkszam 		Termek 		Mennyiség 		Egységár 		Fizetendő
+1002 		Jar tisztító 		3 		900 		2700
+1003 		Citrom 		2 		500 		1000
+3002 		Labda 		1 		200 		200
+Összesen: 3900
